@@ -1514,8 +1514,7 @@ header.sticky .imgText span.txtC {
   margin-bottom: 10px;
 }
 picture.logoAsset {
-  width: 130px;
-  height: 50px;
+  width: 100px;
 }
 header.sticky .imgText.stacked {
   -webkit-box-orient: horizontal;
@@ -2089,7 +2088,6 @@ div.openingTitle {
     width: 55vw;
     margin-left: 0;
     margin-right: 0;
-    margin-top: 11vh;
   }
 }
 @media screen and (min-width: 1500px) {
